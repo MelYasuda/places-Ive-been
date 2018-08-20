@@ -1,0 +1,12 @@
+#show-place {
+  display: none;
+}
+
+.country {
+  cursor: pointer;
+  color: red;
+}
+
+.contact:hover {
+  text-decoration: underline;
+}
